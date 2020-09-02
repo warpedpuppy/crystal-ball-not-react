@@ -10,7 +10,7 @@ steps for insertion:
 
 1. add the file 'crystal-ball.js' into the same directory as the file that you want the crystal ball animation in.
 
-1. on the page that you want the animation add these two lines of code at the bottom of the page, right below the closing body ( ```</body>``` ) tag:
+1. on the page that you want the animation add these two lines of code at the bottom of the page, right above the closing body ( ```</body>``` ) tag:
 
     ```
     <script src="https://cdnjs.cloudflare.com/ajax/libs/pixi.js/5.3.3/pixi.min.js"></script>
