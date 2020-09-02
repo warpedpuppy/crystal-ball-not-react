@@ -1,6 +1,6 @@
 # crystal ball
 
-converted react application to html in order to insert into wordpress
+ ## converted react application to html in order to insert into wordpress
 
 steps for insertion:
 
