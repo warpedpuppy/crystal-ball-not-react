@@ -132,7 +132,7 @@ steps for insertion:
 1. finally, add the following code to where you want the animation to appear:
 
     ```
-      <div id="crystal-ball-unifier">
+    <div id="crystal-ball-unifier">
         <div id="crystal-ball-animated-graphic"></div>
         <img alt="lower-half-of-promo" src='images/bottom-graphic.png' />
     </div>
