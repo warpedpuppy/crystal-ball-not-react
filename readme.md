@@ -12,12 +12,16 @@ steps for insertion:
 
 1. on the page that you want the animation add these two lines of code at the bottom of the page, right below the closing body ( </body> ) tag:
 
-    `<script src="https://cdnjs.cloudflare.com/ajax/libs/pixi.js/5.3.3/pixi.min.js"></script>
-    <script src="crystal-ball.js"></script>`
+    ```
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pixi.js/5.3.3/pixi.min.js"></script>
+    <script src="crystal-ball.js"></script>
+    ```
 
 1. finally, add the following code to where you want the animation to appear:
 
-    `<div id="crystal-ball-unifier">
+    ```
+    <div id="crystal-ball-unifier">
         <div id="crystal-ball-animated-graphic"></div>
         <img alt="lower-half-of-promo" src='/images/bottom-graphic.png' />
-    </div>`
+    </div>
+    ```
