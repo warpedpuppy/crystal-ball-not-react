@@ -22,6 +22,6 @@ steps for insertion:
     ```
     <div id="crystal-ball-unifier">
         <div id="crystal-ball-animated-graphic"></div>
-        <img alt="lower-half-of-promo" src='/images/bottom-graphic.png' />
+        <img alt="lower-half-of-promo" src='images/bottom-graphic.png' />
     </div>
     ```
